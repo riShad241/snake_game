@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "16987347290",
+    "project_id": "live-creicket-score",
+    "storage_bucket": "live-creicket-score.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16987347290:android:9390acc5f3043b34f07b63",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16987347290-frf0ej8on742opi1507n1t35f76lk1me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzE-9-uo1jQck1WdiUPeCmLFUmjxSE5e8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16987347290-frf0ej8on742opi1507n1t35f76lk1me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16987347290:android:713f8697a93ea3b1f07b63",
+        "android_client_info": {
+          "package_name": "com.example.snake_game_use_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16987347290-frf0ej8on742opi1507n1t35f76lk1me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzE-9-uo1jQck1WdiUPeCmLFUmjxSE5e8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16987347290-frf0ej8on742opi1507n1t35f76lk1me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
